@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 50" role="img" aria-label="Vikings Infra Solution">
+  <g fill="#2E8C9E" stroke="#2E8C9E" stroke-width="1" stroke-linejoin="round">
+    <!-- left horn -->
+    <path d="M19 37 C12 35 6 29 3.5 14 C3 12 5 11 6.5 12.5 C13 19 17 27 21 32 C22 34 21 37.5 19 37 Z" />
+    <!-- right horn -->
+    <path d="M45 37 C52 35 58 29 60.5 14 C61 12 59 11 57.5 12.5 C51 19 47 27 43 32 C42 34 43 37.5 45 37 Z" />
+  </g>
+  <g fill="none" stroke="#2E8C9E" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- helmet dome -->
+    <path d="M15 39 C15 21 21 13 32 13 C43 13 49 21 49 39" />
+    <!-- brow band -->
+    <path d="M12 39 H52" />
+    <!-- nose guard -->
+    <path d="M28 21 H36 V44 Q32 48 28 44 Z" />
+  </g>
+  <circle cx="32" cy="25" r="1.9" fill="#2E8C9E" />
+</svg>
