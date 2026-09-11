@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img" aria-label="Gabion box" preserveAspectRatio="xMidYMid slice">
+  <rect width="360" height="240" fill="#E7F2F3"/>
+  <path d="M70 90 L250 90 L300 60 L120 60 Z" fill="none" stroke="#1F6B7A" stroke-width="3"/>
+  <path d="M70 90 V190 L250 190 V90 M250 190 L300 160 V60 M70 90 L120 60 M120 60 V160 L70 190 M120 160 L300 160" fill="none" stroke="#1F6B7A" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M90 90 V190" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <path d="M116 90 V190" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <path d="M142 90 V190" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <path d="M168 90 V190" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <path d="M194 90 V190" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <path d="M220 90 V190" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <path d="M246 90 V190" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <path d="M70 112 H250" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <path d="M70 136 H250" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <path d="M70 160 H250" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <path d="M70 184 H250" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".5"/>
+  <circle cx="110" cy="150" r="16" fill="#BFE0E4" stroke="#1F6B7A" stroke-width="2.5"/>
+  <circle cx="150" cy="165" r="14" fill="#BFE0E4" stroke="#1F6B7A" stroke-width="2.5"/>
+  <circle cx="190" cy="150" r="17" fill="#BFE0E4" stroke="#1F6B7A" stroke-width="2.5"/>
+  <circle cx="225" cy="168" r="12" fill="#BFE0E4" stroke="#1F6B7A" stroke-width="2.5"/>
+  <circle cx="135" cy="128" r="12" fill="#BFE0E4" stroke="#1F6B7A" stroke-width="2.5"/>
+  <circle cx="200" cy="122" r="13" fill="#BFE0E4" stroke="#1F6B7A" stroke-width="2.5"/>
+</svg>

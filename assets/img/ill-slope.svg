@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Slope protection with geocell" preserveAspectRatio="xMidYMid slice">
+  <rect width="480" height="300" fill="#E7F2F3"/>
+  <path d="M0 270 L0 210 Q160 96 480 70 L480 270 Z" fill="#BFE0E4" fill-opacity=".55"/>
+  <path d="M0 210 Q160 96 480 70" fill="none" stroke="#1F6B7A" stroke-width="3"/>
+  <path d="M83.0,187.5 L83.0,202.5 L70.0,210.0 L57.0,202.5 L57.0,187.5 L70.0,180.0 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="70" cy="194.9970269532244" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M70 179.9970269532244 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M117.0,176.0 L117.0,191.0 L104.0,198.5 L91.0,191.0 L91.0,176.0 L104.0,168.5 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="104" cy="183.4522868774252" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M104 168.4522868774252 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M151.0,165.4 L151.0,180.4 L138.0,187.9 L125.0,180.4 L125.0,165.4 L138.0,157.9 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="138" cy="172.93796090576532" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M138 157.93796090576532 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M185.0,155.6 L185.0,170.6 L172.0,178.1 L159.0,170.6 L159.0,155.6 L172.0,148.1 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="172" cy="163.13254000605332" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M172 148.13254000605332 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M219.0,146.4 L219.0,161.4 L206.0,168.9 L193.0,161.4 L193.0,146.4 L206.0,138.9 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="206" cy="153.85897070404212" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M206 138.85897070404212 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M253.0,137.5 L253.0,152.5 L240.0,160.0 L227.0,152.5 L227.0,137.5 L240.0,130.0 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="240" cy="145.00635809234672" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M240 130.00635809234672 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M287.0,129.0 L287.0,144.0 L274.0,151.5 L261.0,144.0 L261.0,129.0 L274.0,121.5 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="274" cy="136.49932416977003" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M274 121.49932416977003 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M321.0,120.8 L321.0,135.8 L308.0,143.3 L295.0,135.8 L295.0,120.8 L308.0,113.3 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="308" cy="128.28362818729863" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M308 113.28362818729863 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M355.0,112.8 L355.0,127.8 L342.0,135.3 L329.0,127.8 L329.0,112.8 L342.0,105.3 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="342" cy="120.31856063458741" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M342 105.31856063458741 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M389.0,105.1 L389.0,120.1 L376.0,127.6 L363.0,120.1 L363.0,105.1 L376.0,97.6 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="376" cy="112.57255998559388" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M376 97.57255998559388 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M423.0,97.5 L423.0,112.5 L410.0,120.0 L397.0,112.5 L397.0,97.5 L410.0,90.0 Z" fill="none" stroke="#1F6B7A" stroke-width="2.2"/>
+  <circle cx="410" cy="105.0205176308701" r="2.4" fill="#1F6B7A" fill-opacity=".5"/>
+  <path d="M410 90.0205176308701 q-4 -10 0 -18 q4 8 0 18" fill="none" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M0 270 H480" stroke="#0A2233" stroke-opacity=".3" stroke-width="3"/>
+</svg>

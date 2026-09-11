@@ -1,14 +1,17 @@
-Drop image files here. Filenames referenced by the current HTML:
+Contents of this folder:
 
-  logo.svg           - header/footer logo + favicon (in use; replace with final artwork)
-  about-company.jpg  - About page, story section
-  rs-wall.jpg        - Home page, "Why Vikings Infra" section
+  logo.svg              - header/footer logo + favicon (placeholder; replace with final artwork)
+  ill-*.svg             - original technical illustrations used on Home / About / Solutions
+  pr-*.svg              - original product-motif illustrations used on Home / Products
 
-Missing photo files just fall back to a grey placeholder box, so the site
-still renders fine before you add them.
+The ill-*/pr-* SVGs are hand-generated line drawings in the site's teal style
+(see scratchpad/make_illustrations.py from the build session). They are a
+stand-in until real photography is available.
 
-Recommended: landscape, ~1200px wide, JPG, compressed to under ~300 KB.
+To swap an illustration for a real photo: drop a JPG in here and update the
+matching <img src="..."> in the HTML (e.g. ill-why.svg -> rs-wall.jpg on
+index.html). Recommended: landscape, ~1200px wide, JPG, under ~300 KB.
 
-Do NOT use photos from the Terrain PDFs — those are another company's images.
-When you have Vikings Infra's own project photos, we can add a Projects /
-Case Studies page and more image slots.
+Do NOT use photos from the Terrain PDFs - those are another company's images.
+When Balabharti Infrastructure has its own project photos, add a Projects / Case Studies
+page with real images.

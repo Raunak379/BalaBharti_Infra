@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img" aria-label="Polymeric reinforcement strips" preserveAspectRatio="xMidYMid slice">
+  <rect width="360" height="240" fill="#E7F2F3"/>
+  <path d="M40 80 H300" stroke="#1F6B7A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M40 80 H300" stroke="#E7F2F3" stroke-width="4" stroke-dasharray="3 12"/>
+  <path d="M40 120 H300" stroke="#1F6B7A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M40 120 H300" stroke="#E7F2F3" stroke-width="4" stroke-dasharray="3 12"/>
+  <path d="M40 160 H300" stroke="#1F6B7A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M40 160 H300" stroke="#E7F2F3" stroke-width="4" stroke-dasharray="3 12"/>
+  <circle cx="40" cy="120" r="20" fill="none" stroke="#1F6B7A" stroke-width="6"/>
+  <path d="M300 160 q26 6 20 30" fill="none" stroke="#1F6B7A" stroke-width="14" stroke-linecap="round"/>
+</svg>

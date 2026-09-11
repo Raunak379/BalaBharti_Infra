@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Reinforced soil wall cross-section" preserveAspectRatio="xMidYMid slice">
+  <rect width="480" height="360" fill="#E7F2F3"/>
+  <path d="M104 320 L104 150 L470 108 L470 320 Z" fill="#BFE0E4" fill-opacity=".55"/>
+  <path d="M108 150 L468 110" stroke="#1F6B7A" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M108 172 L468 132" stroke="#1F6B7A" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M108 194 L468 154" stroke="#1F6B7A" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M108 216 L468 176" stroke="#1F6B7A" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M108 238 L468 198" stroke="#1F6B7A" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M108 260 L468 220" stroke="#1F6B7A" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M108 282 L468 242" stroke="#1F6B7A" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M108 304 L468 264" stroke="#1F6B7A" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M104 150 L470 108 L470 128 L104 170 Z" fill="#0A2233" fill-opacity=".85"/>
+  <path d="M120 158 L300 136 M330 132 L456 116" stroke="#fff" stroke-opacity=".7" stroke-width="3" stroke-dasharray="14 12" stroke-linecap="round"/>
+  <path d="M92 320 L112 150 L132 150 L132 320 Z" fill="#fff" stroke="#1F6B7A" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M109.4 171.2 H132" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".6"/>
+  <path d="M106.9 192.5 H132" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".6"/>
+  <path d="M104.4 213.8 H132" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".6"/>
+  <path d="M101.9 235.0 H132" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".6"/>
+  <path d="M99.5 256.2 H132" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".6"/>
+  <path d="M97.0 277.5 H132" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".6"/>
+  <path d="M94.5 298.8 H132" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".6"/>
+  <path d="M126 168 h283" stroke="#1F6B7A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M126 188 h261" stroke="#1F6B7A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M126 208 h239" stroke="#1F6B7A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M126 228 h217" stroke="#1F6B7A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M126 248 h195" stroke="#1F6B7A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M126 268 h173" stroke="#1F6B7A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M126 288 h151" stroke="#1F6B7A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M126 308 h129" stroke="#1F6B7A" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <path d="M0 320 H480" stroke="#0A2233" stroke-opacity=".35" stroke-width="3"/>
+  <rect x="80" y="320" width="64" height="12" fill="#0A2233" fill-opacity=".25"/>
+  <circle cx="70" cy="316" r="12" fill="#BFE0E4" stroke="#1F6B7A" stroke-width="2.5"/>
+  <circle cx="52" cy="322" r="9"  fill="#BFE0E4" stroke="#1F6B7A" stroke-width="2.5"/>
+</svg>

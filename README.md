@@ -1,4 +1,4 @@
-# Vikings Infra Solution Pvt. Ltd. — Website
+# Balabharti Infrastructure Pvt. Ltd. — Website
 
 A static website (plain HTML/CSS/JS, no build step) for a **geosynthetics /
 ground-engineering** company — soil reinforcement, retaining structures, slope
@@ -24,7 +24,16 @@ Shared assets:
 
 - `assets/css/style.css` — all styling. **Brand colours live in the `:root` block at the top** (primary is the logo teal `#2E8C9E`).
 - `assets/js/main.js` — mobile menu, sticky-header shadow, scroll reveal, footer year, contact-form mailto fallback.
-- `assets/img/` — `logo.svg` (in use), plus photo slots `about-company.jpg` and `rs-wall.jpg` (missing = grey placeholder box, site still works).
+- `assets/img/` — `logo.svg`, `hero-poster.jpg`, plus original SVG illustrations (`ill-*` cross-sections, `pr-*` product motifs) used across Home / About / Solutions / Products. Swap any for a real photo by dropping a JPG in and updating that `<img src>`.
+- `assets/video/hero.mp4` — background video in the home hero (720p, ~8 s loop, ~6.5 MB, H.264, no audio). Source: aerial highway-interchange stock clip (`245030_medium.mp4`, transcoded from 2560×1440/54 MB).
+- `assets/video/about.mp4` — background of the About page header (`.page-head__media`, ~7 MB, 8 s loop). Source: cable-stayed bridge at sunset (`231167_medium.mp4`). Poster: `about-poster.jpg`.
+- `assets/video/solutions.mp4` — background of the Solutions page header (~6.4 MB, 7 s loop, 720p). Source: aerial causeway / dike highway (`370708_medium.mp4`, trimmed from 53 s / 56 MB). Poster: `solutions-poster.jpg`.
+- `assets/video/products.mp4` — background of the Products page header (~7 MB, 5 s loop, 720p). Source: aerial concrete arch overpass (`276651_medium.mp4`, trimmed from 15 s / 28 MB). Poster: `products-poster.jpg`.
+- `assets/video/sectors.mp4` — background of the Sectors page header (~6.6 MB, 8 s loop, 720p). Source: night city flyover / elevated highway (`19627-304735769_medium.mp4`, trimmed from 16 s / 16 MB). Poster: `sectors-poster.jpg`.
+- `assets/video/contact.mp4` — background of the Contact page header (~6.9 MB, 5 s loop, 720p). Source: aerial township / residential development beside a highway (`334921_medium.mp4`, trimmed from 26 s / 70 MB). Poster: `contact-poster.jpg`.
+- Every page now has a header/hero video. They use the shared `.page-head__media` block (home uses `.hero__media`) — remove that block from a page to go back to the plain navy gradient.
+- All videos are hidden on screens < 700 px and for visitors who prefer reduced motion — the matching `*-poster.jpg` shows instead. Only a neutral (grey) gradient sits over each for text legibility; no colour wash.
+- **Confirm both clips' licences permit commercial use** (Pexels/Pixabay/Coverr-style licences do; keep the download pages on file). To replace one, drop in a new `.mp4` and update its poster JPG to a matching frame.
 
 ## View it locally
 
@@ -41,7 +50,7 @@ Placeholders are in `[SQUARE BRACKETS]` or an orange dashed note box. Find `[` t
 
 1. **Logo** — `assets/img/logo.svg` is a clean recreation of the helmet mark, wired into every header/footer. Replace with the final artwork from Turbologo when you have it (keep the filename `logo.svg`, or add `logo.png` and update `src` in all 6 files).
 2. **Company identifiers** — `CIN` and `GSTIN` in `contact.html` and every footer.
-3. **Photos** — add `assets/img/about-company.jpg` and `assets/img/rs-wall.jpg` (landscape, ~1200px, JPG, < ~300 KB). Tell me when you have real project photos and I'll add more image slots (a projects/case-studies page needs them).
+3. **Photos** — the site currently uses original SVG illustrations everywhere. When you have real project photos, replace individual `ill-*` / `pr-*` images (drop a JPG in `assets/img/`, update the `<img src>`), and we can add a Projects / Case Studies page.
 4. **Hero stats** — `9+`, `6`, etc. on the homepage are indicative; adjust to real figures.
 5. **Standards strip** — homepage lists ISO 9001 / IRC / MoRTH / IS / ASTM / BIS as *design/spec* references. Add real certificates (and any vendor approvals like NHAI) only if the company actually holds them.
 6. **Social links** — LinkedIn / YouTube `href="#"` in every footer.

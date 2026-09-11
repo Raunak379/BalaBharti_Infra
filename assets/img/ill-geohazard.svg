@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Rockfall protection mesh" preserveAspectRatio="xMidYMid slice">
+  <rect width="480" height="300" fill="#E7F2F3"/>
+  <path d="M0 270 L0 140 L70 108 L150 60 L250 40 L340 58 L430 44 L480 66 L480 270 Z" fill="#BFE0E4" fill-opacity=".55"/>
+  <path d="M0 140 L70 108 L150 60 L250 40 L340 58 L430 44 L480 66" fill="none" stroke="#1F6B7A" stroke-width="3" stroke-linejoin="round"/>
+  <defs><clipPath id="rock"><path d="M0 270 L0 140 L70 108 L150 60 L250 40 L340 58 L430 44 L480 66 L480 270 Z"/></clipPath></defs>
+  <path d="M-260 0 L40 300 M-260 300 L40 0 M-234 0 L66 300 M-234 300 L66 0 M-208 0 L92 300 M-208 300 L92 0 M-182 0 L118 300 M-182 300 L118 0 M-156 0 L144 300 M-156 300 L144 0 M-130 0 L170 300 M-130 300 L170 0 M-104 0 L196 300 M-104 300 L196 0 M-78 0 L222 300 M-78 300 L222 0 M-52 0 L248 300 M-52 300 L248 0 M-26 0 L274 300 M-26 300 L274 0 M0 0 L300 300 M0 300 L300 0 M26 0 L326 300 M26 300 L326 0 M52 0 L352 300 M52 300 L352 0 M78 0 L378 300 M78 300 L378 0 M104 0 L404 300 M104 300 L404 0 M130 0 L430 300 M130 300 L430 0 M156 0 L456 300 M156 300 L456 0 M182 0 L482 300 M182 300 L482 0 M208 0 L508 300 M208 300 L508 0 M234 0 L534 300 M234 300 L534 0 M260 0 L560 300 M260 300 L560 0 M286 0 L586 300 M286 300 L586 0 M312 0 L612 300 M312 300 L612 0 M338 0 L638 300 M338 300 L638 0 M364 0 L664 300 M364 300 L664 0 M390 0 L690 300 M390 300 L690 0 M416 0 L716 300 M416 300 L716 0 M442 0 L742 300 M442 300 L742 0 M468 0 L768 300 M468 300 L768 0 M494 0 L794 300 M494 300 L794 0" clip-path="url(#rock)" stroke="#1F6B7A" stroke-width="1.6" stroke-opacity=".55" fill="none"/>
+  <circle cx="90" cy="104" r="5" fill="#E87B3C"/>
+  <path d="M90 104 l10 22" stroke="#1F6B7A" stroke-width="2.5"/>
+  <circle cx="190" cy="60" r="5" fill="#E87B3C"/>
+  <path d="M190 60 l10 22" stroke="#1F6B7A" stroke-width="2.5"/>
+  <circle cx="300" cy="52" r="5" fill="#E87B3C"/>
+  <path d="M300 52 l10 22" stroke="#1F6B7A" stroke-width="2.5"/>
+  <circle cx="400" cy="52" r="5" fill="#E87B3C"/>
+  <path d="M400 52 l10 22" stroke="#1F6B7A" stroke-width="2.5"/>
+  <path d="M250 150 l14 6 -4 15 -16 -2 -2 -13 Z" fill="#BFE0E4" stroke="#1F6B7A" stroke-width="2.5"/>
+  <path d="M236 150 h-10 M244 132 l-6 -8" stroke="#1F6B7A" stroke-width="2" stroke-linecap="round"/>
+  <path d="M330 270 v-46 M372 270 v-46 M330 226 H372" stroke="#1F6B7A" stroke-width="3"/>
+  <path d="M0 270 H480" stroke="#0A2233" stroke-opacity=".3" stroke-width="3"/>
+</svg>

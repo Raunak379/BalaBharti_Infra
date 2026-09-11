@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img" aria-label="Geogrid mesh" preserveAspectRatio="xMidYMid slice">
+  <rect width="360" height="240" fill="#E7F2F3"/>
+  <path d="M60 60 L36 200" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M100 60 L76 200" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M140 60 L116 200" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M180 60 L156 200" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M220 60 L196 200" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M260 60 L236 200" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M300 60 L276 200" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M60 70 L300 70" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M54 102 L294 102" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M48 134 L288 134" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M42 166 L282 166" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M36 198 L276 198" stroke="#1F6B7A" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="120" cy="110" r="5" fill="#E87B3C"/>
+  <circle cx="200" cy="140" r="5" fill="#E87B3C"/>
+  <circle cx="250" cy="96" r="5" fill="#E87B3C"/>
+</svg>

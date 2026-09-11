@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Basal reinforcement over soft soil" preserveAspectRatio="xMidYMid slice">
+  <rect width="480" height="300" fill="#E7F2F3"/>
+  <path d="M0 214 q60 -14 120 0 t120 0 t120 0 t120 0 V300 H0 Z" fill="#BFE0E4" fill-opacity=".55"/>
+  <path d="M120 214 L180 120 L330 120 L400 214 Z" fill="#fff" stroke="#1F6B7A" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M180 120 H330 v12 H180 Z" fill="#0A2233" fill-opacity=".82"/>
+  <path d="M70 214 H452" stroke="#1F6B7A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M70 214 v-9 M452 214 v-9" stroke="#1F6B7A" stroke-width="4" stroke-linecap="round"/>
+  <rect x="144" y="214" width="12" height="74" rx="3" fill="#1F6B7A"/>
+  <rect x="214" y="214" width="12" height="74" rx="3" fill="#1F6B7A"/>
+  <rect x="294" y="214" width="12" height="74" rx="3" fill="#1F6B7A"/>
+  <rect x="366" y="214" width="12" height="74" rx="3" fill="#1F6B7A"/>
+  <path d="M110 250 v18 m-7 -8 l7 8 7 -8" fill="none" stroke="#E87B3C" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M260 250 v18 m-7 -8 l7 8 7 -8" fill="none" stroke="#E87B3C" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M410 250 v18 m-7 -8 l7 8 7 -8" fill="none" stroke="#E87B3C" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Pavement base reinforcement" preserveAspectRatio="xMidYMid slice">
+  <rect width="480" height="300" fill="#E7F2F3"/>
+  <path d="M0 214 q60 -12 120 0 t120 0 t120 0 t120 0 V300 H0 Z" fill="#BFE0E4" fill-opacity=".55"/>
+  <rect x="0" y="170" width="480" height="46" fill="#fff" stroke="#1F6B7A" stroke-width="2.5"/>
+  <rect x="0" y="120" width="480" height="50" fill="#fff" stroke="#1F6B7A" stroke-width="2.5"/>
+  <path d="M6 157 H474 M14 150 v14 M34 150 v14 M54 150 v14 M74 150 v14 M94 150 v14 M114 150 v14 M134 150 v14 M154 150 v14 M174 150 v14 M194 150 v14 M214 150 v14 M234 150 v14 M254 150 v14 M274 150 v14 M294 150 v14 M314 150 v14 M334 150 v14 M354 150 v14 M374 150 v14 M394 150 v14 M414 150 v14 M434 150 v14 M454 150 v14 M474 150 v14 " stroke="#1F6B7A" stroke-width="2.4" fill="none"/>
+  <rect x="0" y="96" width="480" height="24" fill="#0A2233" fill-opacity=".85"/>
+  <path d="M40 108 H150 M190 108 H300 M340 108 H452" stroke="#fff" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"/>
+  <rect x="212" y="60" width="56" height="26" rx="12" fill="none" stroke="#1F6B7A" stroke-width="3"/>
+  <path d="M240 40 v16 m-8 -6 l8 8 8 -8" fill="none" stroke="#E87B3C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 164 L170 208" stroke="#1F6B7A" stroke-width="2" stroke-dasharray="3 6" stroke-opacity=".6"/>
+  <path d="M240 164 L240 208" stroke="#1F6B7A" stroke-width="2" stroke-dasharray="3 6" stroke-opacity=".6"/>
+  <path d="M240 164 L310 208" stroke="#1F6B7A" stroke-width="2" stroke-dasharray="3 6" stroke-opacity=".6"/>
+</svg>

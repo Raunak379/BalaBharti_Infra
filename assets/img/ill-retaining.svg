@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Reinforced soil retaining wall" preserveAspectRatio="xMidYMid slice">
+  <rect width="480" height="300" fill="#E7F2F3"/>
+  <path d="M110 270 L110 120 L470 88 L470 270 Z" fill="#BFE0E4" fill-opacity=".55"/>
+  <path d="M110 120 L470 88 L470 104 L110 136 Z" fill="#0A2233" fill-opacity=".85"/>
+  <path d="M96 270 L116 120 L134 120 L134 270 Z" fill="#fff" stroke="#1F6B7A" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M112 138 H134" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".55"/>
+  <path d="M109 158 H134" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".55"/>
+  <path d="M107 178 H134" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".55"/>
+  <path d="M105 198 H134" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".55"/>
+  <path d="M102 218 H134" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".55"/>
+  <path d="M100 238 H134" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".55"/>
+  <path d="M97 258 H134" stroke="#1F6B7A" stroke-width="2" stroke-opacity=".55"/>
+  <path d="M128 150 h230" stroke="#1F6B7A" stroke-width="2.4" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <path d="M128 168 h211" stroke="#1F6B7A" stroke-width="2.4" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <path d="M128 186 h192" stroke="#1F6B7A" stroke-width="2.4" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <path d="M128 204 h173" stroke="#1F6B7A" stroke-width="2.4" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <path d="M128 222 h154" stroke="#1F6B7A" stroke-width="2.4" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <path d="M128 240 h135" stroke="#1F6B7A" stroke-width="2.4" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <path d="M128 258 h116" stroke="#1F6B7A" stroke-width="2.4" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <path d="M0 270 H480" stroke="#0A2233" stroke-opacity=".3" stroke-width="3"/>
+</svg>

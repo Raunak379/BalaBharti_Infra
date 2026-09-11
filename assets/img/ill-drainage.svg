@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Drainage and filtration behind wall" preserveAspectRatio="xMidYMid slice">
+  <rect width="480" height="300" fill="#E7F2F3"/>
+  <path d="M176 270 L176 70 L480 70 L480 270 Z" fill="#BFE0E4" fill-opacity=".55"/>
+  <rect x="150" y="70" width="24" height="200" fill="#fff" stroke="#1F6B7A" stroke-width="3"/>
+  <path d="M176 84 l14 -14 M176 98 l14 -14 M176 112 l14 -14 M176 126 l14 -14 M176 140 l14 -14 M176 154 l14 -14 M176 168 l14 -14 M176 182 l14 -14 M176 196 l14 -14 M176 210 l14 -14 M176 224 l14 -14 M176 238 l14 -14 M176 252 l14 -14 M176 266 l14 -14 " stroke="#1F6B7A" stroke-width="1.8" stroke-opacity=".6" fill="none"/>
+  <path d="M176 84 v186" stroke="#1F6B7A" stroke-width="2" stroke-dasharray="3 5"/>
+  <circle cx="162" cy="120" r="4.5" fill="none" stroke="#1F6B7A" stroke-width="2.5"/>
+  <path d="M150 120 h-20 m6 -6 l-6 6 6 6" fill="none" stroke="#E87B3C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="162" cy="170" r="4.5" fill="none" stroke="#1F6B7A" stroke-width="2.5"/>
+  <path d="M150 170 h-20 m6 -6 l-6 6 6 6" fill="none" stroke="#E87B3C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="162" cy="220" r="4.5" fill="none" stroke="#1F6B7A" stroke-width="2.5"/>
+  <path d="M150 220 h-20 m6 -6 l-6 6 6 6" fill="none" stroke="#E87B3C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 120 q-70 10 -118 -30" fill="none" stroke="#1F6B7A" stroke-width="2" stroke-dasharray="3 6"/>
+  <path d="M300 168 q-70 10 -118 -78" fill="none" stroke="#1F6B7A" stroke-width="2" stroke-dasharray="3 6"/>
+  <path d="M300 216 q-70 10 -118 -126" fill="none" stroke="#1F6B7A" stroke-width="2" stroke-dasharray="3 6"/>
+  <circle cx="160" cy="292" r="9" fill="none" stroke="#1F6B7A" stroke-width="3"/>
+  <path d="M154 292 h12 M160 286 v12" stroke="#1F6B7A" stroke-width="2"/>
+  <path d="M0 270 H480" stroke="#0A2233" stroke-opacity=".3" stroke-width="3"/>
+</svg>
